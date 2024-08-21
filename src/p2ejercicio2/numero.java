@@ -7,7 +7,7 @@ public class numero {
     
     
     
-    // HOLA GIT !!! 2024 SUPER DRAGON BALL
+    // HOLA C3 !!! 2024 SUPER DRAGON BALL
     
     public numero(int n, int docena) {
         this.valor = n;
